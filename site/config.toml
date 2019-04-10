@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "BLUE JEAN BLUES"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,21 +10,21 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "this isa my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  author = "TiâuÛi Lâu"
+  authorlocation = "Taipei, Taiwan"
+  authorwebsite = "https://watain666666.github.io"
+  bio= "Taiwan independence movement"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  githubName = "watain666"
+  twitterName = "tiauweed"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    twitter = "tiauweed"
